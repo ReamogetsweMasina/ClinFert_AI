@@ -1,0 +1,37 @@
+# MIT LICENSE
+
+Copyright (c) 2024 ClinFert
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files(the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute,sublicense, and/or sell
+copies of the Software, and to permit persons to whom the software is
+furnished to do so, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+2. Any modifications made to the Software shall include a prominent notice stating
+the changes made and the date of modification
+
+3. The authors of the Software, including contributors, shall not be held
+liable for any damages, loss of data, or any other liabilities that may arise
+from the use of this software in any healthcare-related scenarios, including 
+but not limited to treatment decisions, patient outcomes and data interpretation.
+
+4. This Software isn not a substitute for professional medical advice, diagnosis,
+or treatment. Always seek the advice of your physician or other qualified
+health provider with any questions you may have regarding a medical condition.
+
+5. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER 
+DEALINGS IN THE SOFTWARE
+
+6. Users of this Software must comply with all local laws and regulations
+applicable to the use of medical data, software in the healthcare domain,
+or any other related activities.
